@@ -7,7 +7,7 @@ Click or scan the QR code to open the template in your browser.
 
 [![QR Code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsoerensofke.github.io%2Fp5js-template%2F&qzone=1&margin=0&size=150x150&ecc=L)](https://soerensofke.github.io/p5js-template/)
 
-## Edit in CodeSandbox
-Click the link below to open the template directly in CodeSandbox. After, fork the template and turn your ideas into reality. Enjoy!
+## Edit on CodeSandbox
+Click the badge below to open the template directly in CodeSandbox. After, fork the template and turn your ideas into reality. Enjoy!
 
-✏️ [https://codesandbox.io/s/github/SoerenSofke/p5js-template)](https://codesandbox.io/s/github/SoerenSofke/p5js-template)
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/SoerenSofke/p5js-template)
