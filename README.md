@@ -1,6 +1,6 @@
 # 🌈 p5.js Template for the CodeSandbox IDE 🦄
 
-[p5.js](https://p5js.org/) is for me the best JavaScript library for creative coding. The project also has an [online editor](https://editor.p5js.org/) that is very suitable for beginners but limited for more advanced projects. My favorite JavaScript online IDE is [CodeSandbox](https://codesandbox.io/) with a reasonable [feature set](https://codesandbox.io/docs/) and here I provide a nice and clean p5.js template to get started right away.
+[p5.js](https://p5js.org/) is for me the best JavaScript library for creative coding. The project also has an [online editor](https://editor.p5js.org/) that is very suitable for beginners but limited for more advanced projects. My favorite JavaScript online IDE is [CodeSandbox](https://codesandbox.io/) that has a reasonable [feature set](https://codesandbox.io/docs/) and here I provide a nice and clean p5.js template to get started right away.
 
 ## Preview the Template
 Click or scan the QR code to open the template in your browser.
